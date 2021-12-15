@@ -2,3 +2,7 @@
 	background: black;
 }
 
+#toolbarContainer {
+	box-shadow: none;
+}
+
